@@ -2,3 +2,4 @@ src/config/packages.ini
 src/config/routes.ini
 composer.lock
 scripts/*
+logs/*
