@@ -1,25 +1,13 @@
 <?php
 
-namespace Claroline\Handler;
+namespace FormaLibre;
 
 class ParametersHandler
-{    
-    public static function getParamFile()
-    {
-        return  __DIR__ . '/../../config/parameters.json';
-    }
-    
+{
+
     public static function getPackageFile()
     {
         return  __DIR__ . '/../../config/packages.ini';
-    }
-
-    public static function getParameter($name)
-    {
-        $json = file_get_contents(self::getParamFile());
-        $data = json_decode($json);
-
-        return $data->$name;
     }
 
     public static function getHandledPackages()

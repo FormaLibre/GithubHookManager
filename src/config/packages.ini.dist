@@ -1,14 +1,1 @@
-claroline/CoreBundle = true
-claroline/BundleRecorder = true
-claroline/WebInstaller = true
-claroline/ActivityToolBundle = true
-claroline/AnnouncementBundle = true
-claroline/ForumBundle = true
-claroline/ImagePlayerBundle = true
-claroline/PdfPlayerBundle = true
-claroline/RssReaderBundle = true
-claroline/VideoPlayerBundle = true
-claroline/WebResourceBundle = true
-claroline/ScormBundle = true
-claroline/SurveyBundle = true
-claroline/TeamBundle = true
+vendor/Bundle = githubkey

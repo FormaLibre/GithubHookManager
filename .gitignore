@@ -1,9 +1,4 @@
 src/config/packages.ini
+src/config/routes.ini
 composer.lock
-src/config/parameters.json
-error.log
-access.log
 scripts/*
-scripts.log
-tmp
-releases/*

@@ -1,8 +1,0 @@
-{
-    "output_dir": "/path/to/output/dir",
-    "test_dir": "/path/to/output/test_dir",
-    "access_log": "/path/to/access/log",
-    "error_log": "/path/to/error/log",
-    "hook_scripts": ["/path/to/script/scripts.php"],
-    "hook_log": "/path/to/hook/log"
-}
